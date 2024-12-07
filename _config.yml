@@ -1,7 +1,10 @@
 title: "Tony O’Halloran"
-description: "AI Researcher | MSc Thesis, Yale/EPFL LiGHT | Healthcare & Mechanistic Interpretability"
+description: "AI Researcher | MSc Thesis, Yale/EPFL LiGHT"
 theme: minima
 url: "https://tonyohalloran.github.io"
-author: 
+author:
   name: "Tony O'Halloran"
-  email: "tonyohalloran2000@gmail.com"
+  email: "your-email@example.com"
+
+minima:
+  skin: dark
